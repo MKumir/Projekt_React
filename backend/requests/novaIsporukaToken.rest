@@ -1,0 +1,10 @@
+POST http://localhost:3001/api/isporuke
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InBwZXJpYyIsImlkIjoiNjJmMTQ3MTg0NTZkOGVmMTUzYmE3M2EyIiwiaWF0IjoxNjU5OTg5ODAzfQ.BmRO7FS4Ltlo93vQSHJI7y92TnWAst1xzWKzgZcHzUY
+
+{
+    "proizvod": "Proizvod sa tokenom2",
+    "kolicina": 20,
+    "sektor": "C",
+    "status": true
+}

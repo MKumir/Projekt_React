@@ -1,0 +1,8 @@
+POST http://localhost:3001/api/proizvodi
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InBwZXJpYyIsImlkIjoiNjJmMTQ3MTg0NTZkOGVmMTUzYmE3M2EyIiwiaWF0IjoxNjYwNTc4MTI0fQ.2wK6obMZI0v0Bie1CRYRiyYkp6f9AIhVC21El4Bb2Ao
+
+{
+    "naziv": "Stol",
+    "kategorija": "Namjestaj"
+}

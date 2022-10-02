@@ -1,0 +1,61 @@
+body {
+    background-color: lightsteelblue;
+    max-width: 500px;
+    margin: auto;
+    font-size: larger;
+  }
+  
+h1 {
+    color: black;
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;
+    margin-top: 20px;
+    font-size: medium;
+    text-align: center;
+    white-space: wrap
+}
+
+tr {
+    background-color: rgb(225, 229, 244);
+    vertical-align: middle;
+    height: 40px;
+}
+
+td
+{
+    border: solid 1px #e6e5e5;
+}
+
+button{
+    background-color: white;
+    font-size: 14px;
+    padding: 7px;
+    border-color:lightblue;
+    border-radius: 10px;
+}
+
+input {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+select {
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 14px;
+}
+
+
+.brisiBtn{
+    background-color: red;
+    font-size: 14px;
+    padding: 7px;
+    border-color:red;
+    border-radius: 10px;
+}
+
+
+

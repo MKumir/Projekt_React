@@ -1,0 +1,10 @@
+POST http://localhost:3001/api/korisnici
+Content-Type: application/json
+
+{
+    "ime": "Ivo",
+    "prezime": "Ivic",
+    "uloga": "radnik",
+    "username": "iivic",
+    "pass": "lozinka"
+}

@@ -1,0 +1,10 @@
+POST http://localhost:3001/api/isporuke
+Content-Type: application/json
+
+{
+    "proizvod": "Proizvod sa korisnikom2",
+    "kolicina": 10,
+    "sektor": "A",
+    "status": true,
+    "korisnikId": "62f14718456d8ef153ba73a2"
+}
